@@ -1,0 +1,59 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+table th.algohex-analytics-post {
+	width: 70%;
+}
+
+table th.algohex-analytics-visitor {
+	width: 15%;
+}
+
+table th.algohex-analytics-visit-datetime {
+	width: 15%;
+}
+
+table th.algohex-analytics-post,
+table th.algohex-analytics-visitor,
+table th.algohex-analytics-visit-datetime {
+	padding: 1em;
+	font-size: 1.2em;
+}
+
+table td.algohex-analytics-post,
+table td.algohex-analytics-visitor,
+table td.algohex-analytics-visit-datetime {
+	border-top: 2px solid #e1e1e1;
+	padding: 1em;
+	line-height: 1.5em;
+}
+
+.visit-log-title,
+.highest-visit-title {
+	font-size: 1.6em;
+}
+
+.bg-light { background-color: #efefef; }
+.bg-white { background-color: #ffffff; }
+
+/* General class */
+.algo-left { float: left; }
+.algo-right { float: right; }
+.algo-w-10 { width: 10%; }
+.algo-w-20 { width: 20%; }
+.algo-w-30 { width: 30%; }
+.algo-w-40 { width: 40%; }
+.algo-w-50 { width: 50%; }
+.algo-w-60 { width: 60%; }
+.algo-w-70 { width: 70%; }
+.algo-w-80 { width: 80%; }
+.algo-w-90 { width: 90%; }
+.algo-w-1020 { width: 100%; }
+.algo-p-1 { padding: 1em; }
+.algo-p-2 { padding: 2em; }
+.algo-p-3 { padding: 3em; }
+.algo-p-4 { padding: 4em; }
+.algo-p-5 { padding: 5em; }
+.algo-border { border: 1px solid; }
+.algo-border-grey { border-color: #e1e1e1;  }
